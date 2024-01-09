@@ -1,0 +1,4 @@
+repository "ESCell@GhoGoo@cloud"
+  path "/"
+    br "/main"
+    co "/main"
